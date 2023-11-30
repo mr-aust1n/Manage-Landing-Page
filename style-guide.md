@@ -24,3 +24,7 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+
+npm install 
+npm run dev
